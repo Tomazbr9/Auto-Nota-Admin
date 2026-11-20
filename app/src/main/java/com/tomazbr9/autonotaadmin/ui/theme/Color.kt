@@ -2,10 +2,13 @@ package com.tomazbr9.autonotaadmin.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val TechBackground = Color(0xFF080F1F)
+val TechSurface = Color(0xFF111E32)
+val TechSurfaceElevated = Color(0xFF1B2D49)
+val TechPrimary = Color(0xFF55DEFF)
+val TechSecondary = Color(0xFF9A8CFF)
+val TechText = Color(0xFFF1F7FF)
+val TechMuted = Color(0xFF9FB1CA)
+val TechOutline = Color(0xFF2C415F)
+val TechSuccess = Color(0xFF65E7B9)
+val TechError = Color(0xFFFF95A3)
